@@ -1,9 +1,3 @@
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
 
 //We only have to change background-color and height of the sorting element.
 
